@@ -1,6 +1,6 @@
-let adress = ["Miritiba 339", "Babaçu 500", "Cambui 804B", "Rio Branco 23", "Quirino dos Santos 23 b", "4, Rue de la République", "Calle Sagasta, 26", "Calle 44 No 1991", "100 Broadway Av" ];
+export let adress = ["Miritiba 339", "Babaçu 500", "Cambui 804B", "Rio Branco 23", "Quirino dos Santos 23 b", "4, Rue de la République", "Calle Sagasta, 26", "Calle 44 No 1991", "100 Broadway Av" ];
  let adressSplit = [];
- let verifyAdress = () => {
+export let verifyAdress = () => {
    adress.forEach(adressLocal => {
        if(adressLocal.split(" ").length < 3)
         adressSplit.push(adressLocal.split(" "));
@@ -32,4 +32,4 @@ let adress = ["Miritiba 339", "Babaçu 500", "Cambui 804B", "Rio Branco 23", "Qu
    })
    return adressSplit
  }
- console.log(verifyAdress())
+ console.log(verifyAdress());
