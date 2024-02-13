@@ -1,4 +1,4 @@
-let adress = ["Miritiba 339", "Babaçu 500", "Rio Branco 23", "Quirino dos Santos 23 b", "4, Rue de la République", "Calle Sagasta, 26", "Calle 44 No 1991", "100 Broadway Av" ];
+let adress = ["Miritiba 339", "Babaçu 500", "Cambui 804B", "Rio Branco 23", "Quirino dos Santos 23 b", "4, Rue de la République", "Calle Sagasta, 26", "Calle 44 No 1991", "100 Broadway Av" ];
  let adressSplit = [];
  let verifyAdress = () => {
    adress.forEach(adressLocal => {
@@ -18,7 +18,7 @@ let adress = ["Miritiba 339", "Babaçu 500", "Rio Branco 23", "Quirino dos Santo
            let adressInfo = adressLocal.match(/\d+(\s[a-z])?/);
            let initial, end;
            if(adressInfo["index"] == 0){ 
-               initial = adressInfo[0].length;
+               initial = adressInfo[0].length+1;
                end = adressLocal.length
            }else{
                initial = 0;
