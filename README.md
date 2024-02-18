@@ -18,6 +18,8 @@ Aparelho eletrônico com acesso a compilador online de Javascript ou Node.Js
 
 Copie o código do Adress.js e coloque em um compilador, sendo possível adicionar novos endereços em formato de string na primeira variável.
 
+ou acesse a tabela montada de forma dinâmica com os dados apresentados no código Adress.js! [Acesse clicando aqui](https://raismel.github.io/PwcTest/)
+
 ### videos do coding
 
 https://youtu.be/Lvjp2imLaIs?si=KSVpWHgKCN0QphKS
