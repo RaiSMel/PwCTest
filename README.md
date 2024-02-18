@@ -8,7 +8,7 @@ img
 - [x] Casos simples de dois elementos
 - [x] Casos mais complicados com multiplos nomes de ruas
 - [x] Casos complexos de endereços de outros países
-- [ ] Arrumar No 1991 para conseguir identificar número no ínicio da string
+- [ ] Arrumar No 1991 para conseguir identificar sequência inversa
 
 ### Pré-requisitos 
 
