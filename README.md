@@ -2,7 +2,7 @@
 
 ![image](https://github.com/RaiSMel/PwcTest/assets/93801960/9482fb39-8d97-4be9-8f92-08a4a182c5b4)
 
-> Este código tem a intenção de separar do endereço duas informações, a primeira sendo a rua e a segundo sendo o número.
+> Este código tem a intenção de separar do endereço duas informações, a primeira sendo a rua e a segunda sendo o número.
 
 ### Ajustes e melhorias
 
