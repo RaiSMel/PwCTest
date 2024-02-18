@@ -13,7 +13,7 @@
 
 ### Pré-requisitos 
 
-Aparelho eletrônico com acesso a compilador online de Javascript ou Node.Js
+Aparelho eletrônico com acesso a compilador online de Javascript ou Node.Js. Há a possibilidade de acessar a parte visual do código!
 
 ### Usando
 
